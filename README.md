@@ -9,5 +9,5 @@ Meteor Bootstrap-3
 With Meteor 0.9 and above, install using:
 
 ```sh
-$ meteor add mizzao:bootstrap-3
+$ meteor add pahans:bootstrap-3
 ```

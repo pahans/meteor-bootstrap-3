@@ -1,8 +1,8 @@
 Package.describe({
-  name: "mizzao:bootstrap-3",
+  name: "pahans:bootstrap-3",
   summary: "HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
-  version: "3.2.0",
-  git: "https://github.com/mizzao/meteor-bootstrap-3.git"
+  version: "3.2.0-2",
+  git: "https://github.com/pahans/meteor-bootstrap-3.git"
 });
 
 Package.onUse(function (api) {
