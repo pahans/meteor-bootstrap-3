@@ -4,10 +4,6 @@ Meteor Bootstrap-3
 [Bootstrap 3.x](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
 
 
-### Installation
+### Not Maintained 
 
-With Meteor 0.9 and above, install using:
-
-```sh
-$ meteor add pahans:bootstrap-3
-```
+please use https://github.com/mizzao/meteor-bootstrap-3/
